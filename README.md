@@ -39,7 +39,7 @@
             <td><a href="#7">보완점</a></td>
         </tr>
         <tr align=center>
-            <td><8/td>
+            <td>8</td>
             <td><a href="#8">References</a></td>
         </tr>  
      </tbody>
