@@ -238,19 +238,9 @@
     → 사내 용어 단어사전을 구축하여 맞춤법 단계에서 해당 용어로 바꿔주는 처리방안 모색 <br>
     
 ---
-    
-# 8. <a name="8">멤버 & 역할</a>
 
-- 김용재 : 음성모델 학습 & 플라스크 웹 페이지 제작 & 웹 DB 구축
-- 국승용 : 모델 학습 & 음성 데이터 후처리 & 플라스크 웹페이지 제작 & PPT
-- 강효진 : 문서요약 모델 학습 & 음성 데이터 전처리 & 플라스크 웹페이지 제작
-- 오혜인 : 음성모델 학습 & 플라스크 웹페이지 제작 및 기획  & 웹 DB 구축 & 발표
-- 이재혁 : 음성데이터 전처리 & 모델 학습 & PPT
-- 정효제 : 문서요약 모델 학습 & 플라스크 웹페이지 제작 
-    
----
 
-# 9. <a name="9">References</a>
+# 8. <a name="9">References</a>
 
 - <a href="https://www.chosun.com/economy/tech_it/2021/09/03/5O35DRPSZJHVFKT26DIOH7B72A">조선일보 기사</a>
 - <a href="https://github.com/deezer/spleeter">spleeter 모듈</a>
