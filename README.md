@@ -39,12 +39,8 @@
             <td><a href="#7">보완점</a></td>
         </tr>
         <tr align=center>
-            <td>8</td>
-            <td><a href="#8">멤버 & 역할</a></td>
-        </tr>
-        <tr align=center>
-            <td>9</td>
-            <td><a href="#9">References</a></td>
+            <td><8/td>
+            <td><a href="#8">References</a></td>
         </tr>  
      </tbody>
 </table>
@@ -240,7 +236,7 @@
 ---
 
 
-# 8. <a name="9">References</a>
+# 8. <a name="8">References</a>
 
 - <a href="https://www.chosun.com/economy/tech_it/2021/09/03/5O35DRPSZJHVFKT26DIOH7B72A">조선일보 기사</a>
 - <a href="https://github.com/deezer/spleeter">spleeter 모듈</a>
